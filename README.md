@@ -20,8 +20,6 @@ I'm excited to share with you our latest Power BI report and interactive dashboa
 We welcome your feedback and contributions to enhance this dashboard. If you have any ideas, suggestions, or bug reports, please feel free to create an issue or submit a pull request.
 
 
-📢 Let's Collaborate:
-If you're passionate about data analytics and visualization, we'd love to collaborate with you on this project. Feel free to reach out, and let's make this dashboard even more insightful!
 
 ![image](https://github.com/prernaInkar43/Amazon-prime-/assets/96662678/0f1614c3-9f4d-4f1c-ac51-da5ca70d8666)
 
